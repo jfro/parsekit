@@ -2624,7 +2624,7 @@
 			name = Tests;
 			productName = NewTests;
 			productReference = D37D8DC61571A4F700CDB822 /* Tests.octest */;
-			productType = "com.apple.product-type.bundle";
+			productType = "com.apple.product-type.bundle.ocunit-test";
 		};
 		D389F1CD0F1965E600558235 /* JSParseKit */ = {
 			isa = PBXNativeTarget;
@@ -2686,7 +2686,7 @@
 		0867D690FE84028FC02AAC07 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0600;
 			};
 			buildConfigurationList = 1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "ParseKit" */;
 			compatibilityVersion = "Xcode 3.2";
